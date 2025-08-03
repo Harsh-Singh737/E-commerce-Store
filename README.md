@@ -1,6 +1,8 @@
 <h1 align="center">E-Commerce Store 🛒</h1>
 
-![Demo App](https://e-commerce-store-x13m.onrender.com)
+## Deployment Link
+
+https://e-commerce-store-x13m.onrender.com/
 
 About This Course:
 
